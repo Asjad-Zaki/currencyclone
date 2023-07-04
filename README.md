@@ -1,2 +1,2 @@
 # currencyclone
-currency converter mini_project(currensee)
+currency converter used for exchange the rate mini_project(currensee)
