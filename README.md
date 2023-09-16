@@ -1,3 +1,3 @@
-https://github.com/Asjad-Zaki/currencyclone/blob/main/money.png currencyclone
-currency converter used for exchange the rate mini_project(currensee)
-![Alt text](http://full/path/to/money.png)
+#Currency_Converter
+
+![Screenshot (174)](https://github.com/Asjad-Zaki/currencyclone/assets/93717246/0bfe3724-cf8c-46aa-8768-edc7f1b875f9)
